@@ -1,6 +1,9 @@
 # snmi_vocab
 Generate vocabulary text files for Natural Language Processing (NLP) using the Systematized Nomenclature of Medicine International (SNMI).
 
+# Description
+A tutorial describing how to generate your own vocabulary files for use in NLP experiments. In this example, a medical vocabulary file was generated.
+
 # Installation
 - [Jupyter Notebooks](https://jupyter.readthedocs.io/en/latest/install.html)
 
